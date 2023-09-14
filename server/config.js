@@ -1,3 +1,3 @@
 module.exports = {
-    secret: 'todo-esoft-secret-key'
+    secret: 'todo-fullstack-secret-key'
 }
